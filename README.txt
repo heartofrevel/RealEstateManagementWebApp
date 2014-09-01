@@ -1,4 +1,4 @@
-This assignment demonstrates the use of Exception Handling in C#
+This is a web app on Real Estate Management System 
 
 1. The Website code is stored in ./RealEstateMgmt/ folder .
 2. The DLL's used the the website alongwith their codes are stored in ./DLLComponents/ foler.
