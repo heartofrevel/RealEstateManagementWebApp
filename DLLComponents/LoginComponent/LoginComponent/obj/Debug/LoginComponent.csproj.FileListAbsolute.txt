@@ -1,0 +1,9 @@
+c:\users\k3rn3l\documents\visual studio 2012\Projects\LoginComponent\LoginComponent\obj\Debug\LoginComponent.csprojResolveAssemblyReference.cache
+c:\users\k3rn3l\documents\visual studio 2012\Projects\LoginComponent\LoginComponent\bin\Debug\LoginComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\LoginComponent\LoginComponent\bin\Debug\LoginComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\LoginComponent\LoginComponent\bin\Debug\DBConnectionComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\LoginComponent\LoginComponent\bin\Debug\DBConnectionComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\LoginComponent\LoginComponent\obj\Debug\LoginComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\LoginComponent\LoginComponent\obj\Debug\LoginComponent.pdb
+C:\Users\k3rn3l\Documents\Visual Studio 2012\Projects\LoginComponent\LoginComponent\bin\Debug\StringManipComponent.dll
+C:\Users\k3rn3l\Documents\Visual Studio 2012\Projects\LoginComponent\LoginComponent\bin\Debug\StringManipComponent.pdb

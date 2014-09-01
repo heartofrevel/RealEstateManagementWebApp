@@ -1,0 +1,5 @@
+c:\users\k3rn3l\documents\visual studio 2012\Projects\ExceptionComponent\ExceptionComponent\bin\Debug\ExceptionComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\ExceptionComponent\ExceptionComponent\bin\Debug\ExceptionComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\ExceptionComponent\ExceptionComponent\obj\Debug\ExceptionComponent.csprojResolveAssemblyReference.cache
+c:\users\k3rn3l\documents\visual studio 2012\Projects\ExceptionComponent\ExceptionComponent\obj\Debug\ExceptionComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\ExceptionComponent\ExceptionComponent\obj\Debug\ExceptionComponent.pdb

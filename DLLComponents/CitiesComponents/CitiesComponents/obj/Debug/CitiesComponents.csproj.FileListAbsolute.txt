@@ -1,0 +1,7 @@
+c:\users\k3rn3l\documents\visual studio 2012\Projects\CitiesComponents\CitiesComponents\obj\Debug\CitiesComponents.csprojResolveAssemblyReference.cache
+c:\users\k3rn3l\documents\visual studio 2012\Projects\CitiesComponents\CitiesComponents\bin\Debug\CitiesComponents.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\CitiesComponents\CitiesComponents\bin\Debug\CitiesComponents.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\CitiesComponents\CitiesComponents\bin\Debug\DBConnectionComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\CitiesComponents\CitiesComponents\bin\Debug\DBConnectionComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\CitiesComponents\CitiesComponents\obj\Debug\CitiesComponents.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\CitiesComponents\CitiesComponents\obj\Debug\CitiesComponents.pdb

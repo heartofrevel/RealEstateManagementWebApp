@@ -1,0 +1,13 @@
+c:\users\k3rn3l\documents\visual studio 2012\Projects\BuyerComponent\BuyerComponent\bin\Debug\BuyerComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\BuyerComponent\BuyerComponent\bin\Debug\BuyerComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\BuyerComponent\BuyerComponent\bin\Debug\DBConnectionComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\BuyerComponent\BuyerComponent\bin\Debug\UserComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\BuyerComponent\BuyerComponent\bin\Debug\DBConnectionComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\BuyerComponent\BuyerComponent\bin\Debug\UserComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\BuyerComponent\BuyerComponent\obj\Debug\BuyerComponent.csprojResolveAssemblyReference.cache
+c:\users\k3rn3l\documents\visual studio 2012\Projects\BuyerComponent\BuyerComponent\obj\Debug\BuyerComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\BuyerComponent\BuyerComponent\obj\Debug\BuyerComponent.pdb
+C:\Users\k3rn3l\Documents\Visual Studio 2012\Projects\BuyerComponent\BuyerComponent\bin\Debug\StringManipComponent.dll
+C:\Users\k3rn3l\Documents\Visual Studio 2012\Projects\BuyerComponent\BuyerComponent\bin\Debug\StringManipComponent.pdb
+C:\Users\k3rn3l\Documents\Visual Studio 2012\Projects\BuyerComponent\BuyerComponent\bin\Debug\ExceptionComponent.dll
+C:\Users\k3rn3l\Documents\Visual Studio 2012\Projects\BuyerComponent\BuyerComponent\bin\Debug\ExceptionComponent.pdb

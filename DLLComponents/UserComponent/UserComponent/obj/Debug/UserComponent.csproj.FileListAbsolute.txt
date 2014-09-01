@@ -1,0 +1,7 @@
+c:\users\k3rn3l\documents\visual studio 2012\Projects\UserComponent\UserComponent\bin\Debug\UserComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\UserComponent\UserComponent\bin\Debug\UserComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\UserComponent\UserComponent\obj\Debug\UserComponent.csprojResolveAssemblyReference.cache
+c:\users\k3rn3l\documents\visual studio 2012\Projects\UserComponent\UserComponent\obj\Debug\UserComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\UserComponent\UserComponent\obj\Debug\UserComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\UserComponent\UserComponent\bin\Debug\DBConnectionComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\UserComponent\UserComponent\bin\Debug\DBConnectionComponent.pdb

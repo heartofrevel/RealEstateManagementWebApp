@@ -1,0 +1,13 @@
+c:\users\k3rn3l\documents\visual studio 2012\Projects\SellerComponent\SellerComponent\bin\Debug\SellerComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\SellerComponent\SellerComponent\bin\Debug\SellerComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\SellerComponent\SellerComponent\bin\Debug\DBConnectionComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\SellerComponent\SellerComponent\bin\Debug\UserComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\SellerComponent\SellerComponent\bin\Debug\DBConnectionComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\SellerComponent\SellerComponent\bin\Debug\UserComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\SellerComponent\SellerComponent\obj\Debug\SellerComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\SellerComponent\SellerComponent\obj\Debug\SellerComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\SellerComponent\SellerComponent\obj\Debug\SellerComponent.csprojResolveAssemblyReference.cache
+C:\Users\k3rn3l\Documents\Visual Studio 2012\Projects\SellerComponent\SellerComponent\bin\Debug\StringManipComponent.dll
+C:\Users\k3rn3l\Documents\Visual Studio 2012\Projects\SellerComponent\SellerComponent\bin\Debug\StringManipComponent.pdb
+C:\Users\k3rn3l\Documents\Visual Studio 2012\Projects\SellerComponent\SellerComponent\bin\Debug\ExceptionComponent.dll
+C:\Users\k3rn3l\Documents\Visual Studio 2012\Projects\SellerComponent\SellerComponent\bin\Debug\ExceptionComponent.pdb

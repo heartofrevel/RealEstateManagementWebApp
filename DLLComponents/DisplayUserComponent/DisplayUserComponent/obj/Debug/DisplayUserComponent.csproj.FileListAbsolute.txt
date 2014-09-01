@@ -1,0 +1,7 @@
+c:\users\k3rn3l\documents\visual studio 2012\Projects\DisplayUserComponent\DisplayUserComponent\bin\Debug\DisplayUserComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\DisplayUserComponent\DisplayUserComponent\bin\Debug\DisplayUserComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\DisplayUserComponent\DisplayUserComponent\bin\Debug\DBConnectionComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\DisplayUserComponent\DisplayUserComponent\bin\Debug\DBConnectionComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\DisplayUserComponent\DisplayUserComponent\obj\Debug\DisplayUserComponent.csprojResolveAssemblyReference.cache
+c:\users\k3rn3l\documents\visual studio 2012\Projects\DisplayUserComponent\DisplayUserComponent\obj\Debug\DisplayUserComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\DisplayUserComponent\DisplayUserComponent\obj\Debug\DisplayUserComponent.pdb

@@ -1,0 +1,5 @@
+c:\users\k3rn3l\documents\visual studio 2012\Projects\StringManipComponent\StringManipComponent\bin\Debug\StringManipComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\StringManipComponent\StringManipComponent\bin\Debug\StringManipComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\StringManipComponent\StringManipComponent\obj\Debug\StringManipComponent.csprojResolveAssemblyReference.cache
+c:\users\k3rn3l\documents\visual studio 2012\Projects\StringManipComponent\StringManipComponent\obj\Debug\StringManipComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\StringManipComponent\StringManipComponent\obj\Debug\StringManipComponent.pdb

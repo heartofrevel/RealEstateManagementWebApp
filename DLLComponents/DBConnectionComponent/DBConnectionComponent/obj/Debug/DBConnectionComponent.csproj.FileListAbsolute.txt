@@ -1,0 +1,4 @@
+c:\users\k3rn3l\documents\visual studio 2012\Projects\DBConnectionComponent\DBConnectionComponent\bin\Debug\DBConnectionComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\DBConnectionComponent\DBConnectionComponent\bin\Debug\DBConnectionComponent.pdb
+c:\users\k3rn3l\documents\visual studio 2012\Projects\DBConnectionComponent\DBConnectionComponent\obj\Debug\DBConnectionComponent.dll
+c:\users\k3rn3l\documents\visual studio 2012\Projects\DBConnectionComponent\DBConnectionComponent\obj\Debug\DBConnectionComponent.pdb
